@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+/* @import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@300;400;700&display=swap'); */
+@font-face {
+    font-family: 'Niradei';
+    src: url('./fonts/Niradei-Regular.otf') format('opentype'); /* Adjust the path as necessary */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Niradei';
+    src: url('./fonts/Niradei-Bold.otf') format('opentype'); /* Adjust the path as necessary */
+  }
+  /* body {
+    font-family: 'Niradei', sans-serif;
+  } */
+  
+  .font-regular {
+    font-family: "Niradei", sans-serif;
+  }
+  .font-bold {
+    font-family: "Niradei", sans-serif;
+    /* font-weight: bold; */
+  }
