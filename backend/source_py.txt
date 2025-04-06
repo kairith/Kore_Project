@@ -1,0 +1,7 @@
+python3 -m venv fastapi-env                       
+source fastapi-env/bin/activate
+
+
+
+start fast_api : 
+uvicorn backend.fast_api:app --reload
