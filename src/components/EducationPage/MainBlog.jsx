@@ -112,7 +112,7 @@ const MainBlog = () => {
                         <p className="font-regular text-gray-700 text-[16px] sm:text-lg mb-6 leading-relaxed">
                             ការហាត់ប្រាណពេលមានផ្ទៃពោះគឺមានសុវត្ថិភាព និងសុខភាពល្អសម្រាប់អ្នក និងទារករបស់អ្នក។
                         </p>
-                        <a href="#" className="text-rose-300 text-[16px] sm:text-lg font-bold inline-flex transition duration-300 hover:text-blue-300">
+                        <a href="http://localhost:5173/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%A2%E1%9E%94%E1%9F%8B%E1%9E%9A%E1%9F%86/%E1%9E%9C%E1%9E%B8%E1%9E%8A%E1%9F%81%E1%9E%A2%E1%9E%BC" className="text-rose-300 text-[16px] sm:text-lg font-bold inline-flex transition duration-300 hover:text-blue-300">
                             ស្វែងយល់បន្ថែម →
                         </a>
                     </motion.div>

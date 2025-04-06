@@ -25,7 +25,7 @@ const HeroSection = () => {
                         <p className="font-regular text-[16px] sm:text-lg lg:text-xl text-gray-900 mb-6">
                             រៀនអំពីការថែទាំសុខភាពអាហារូបត្ថម្ភ និងសុខភាពផ្លូវចិត្ត ក្នុងអំឡុងពេលមានផ្ទៃពោះ
                         </p>
-                        <a href="#" className="text-rose-300 text-[16px] sm:text-lg md:mb-12 font-bold inline-flex transition duration-300 hover:text-white">
+                        <a href="http://localhost:5173/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%A2%E1%9E%94%E1%9F%8B%E1%9E%9A%E1%9F%86" className="text-rose-300 text-[16px] sm:text-lg md:mb-12 font-bold inline-flex transition duration-300 hover:text-white">
                             ស្វែងយល់បន្ថែម →
                         </a>
                     </motion.div>
@@ -63,12 +63,12 @@ const HeroSection = () => {
                         viewport={{ once: true, amount: 0.7 }}
                         className="lg:hidden text-center sm:text-left">
                         <h1 className="font-bold text-xl sm:text-2xl lg:text-3xl text-gray-900 mb-4">
-                            ចែករំលែក
+                            <a href="http://localhost:5173/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%A2%E1%9E%94%E1%9F%8B%E1%9E%9A%E1%9F%86/%E1%9E%A2%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%94%E1%9E%91">ចែករំលែក</a>
                         </h1>
                         <p className="font-regular text-[16px] sm:text-lg lg:text-xl text-gray-900 mb-6">
                             ភ្ជាប់ជាមួយស្រ្តីមានផ្ទៃពោះដទៃទៀត ដើម្បីចែករំលែកបទពិសោធន៍ និងទទួលបានការគាំទ្រ
                         </p>
-                        <a href="#" className="text-rose-300 text-[16px] sm:text-lg md:mb-14 font-bold inline-flex transition duration-300 hover:text-white">
+                        <a href="http://localhost:5173/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%A2%E1%9E%94%E1%9F%8B%E1%9E%9A%E1%9F%86/%E1%9E%A2%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%94%E1%9E%91" className="text-rose-300 text-[16px] sm:text-lg md:mb-14 font-bold inline-flex transition duration-300 hover:text-white">
                             ស្វែងយល់បន្ថែម →
                         </a>
                     </motion.div>
@@ -98,9 +98,9 @@ const HeroSection = () => {
                             ចែករំលែក
                         </h1>
                         <p className="font-regular text-[16px] sm:text-lg lg:text-xl text-gray-900 mb-6">
-                            ភ្ជាប់ជាមួយស្រ្តីមានផ្ទៃពោះដទៃទៀត ដើម្បីចែករំលែកបទពិសោធន៍ និងទទួលបានការគាំទ្រ
+                            ភ្ជាប់ទំនាក់ទំនងជាមួយស្រ្តីមានផ្ទៃពោះដទៃទៀត ដើម្បីចែករំលែកបទពិសោធន៍ និងទទួលបានការគាំទ្រ
                         </p>
-                        <a href="#" className="text-rose-300 text-[16px] sm:text-lg md:mb-14 mb-14 font-bold inline-flex transition duration-300 hover:text-white">
+                        <a href="http://localhost:5173/%E1%9E%A2%E1%9E%B6%E1%9E%93%E1%9E%A2%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%94%E1%9E%91/67e9f826dcef8eedebe8c836" className="text-rose-300 text-[16px] sm:text-lg md:mb-14 mb-14 font-bold inline-flex transition duration-300 hover:text-white">
                             ស្វែងយល់បន្ថែម →
                         </a>
                     </motion.div>

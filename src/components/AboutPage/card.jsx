@@ -1,8 +1,10 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
-import Card1 from "../../assets/AboutPage/Card1.jpg"; // Adjust path if needed
-
+import Card1 from "../../assets/AboutPage/Card1s.jpg"; // Adjust path if needed
+import Card2 from "../../assets/AboutPage/Card2.jpg";
+import Card3 from "../../assets/AboutPage/Card3.jpg";
+import Card4 from "../../assets/AboutPage/Card4.jpg";
 const Card = () => {
   return (
     <div className="flex flex-col justify-center items-center min-h-screen bg-gray-100 p-18">
@@ -31,7 +33,7 @@ const Card = () => {
           viewport={{ once: true, amount: 0.7 }}
           className="bg-white shadow-lg rounded-xl overflow-hidden w-full transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl"
         >
-          <img src={Card1} alt="Mission" className="w-full h-56 object-cover" />
+          <img src={Card2} alt="Mission" className="w-full h-56 object-cover" />
           <div className="p-6 text-center">
             <h2 className="text-lg font-bold text-gray-800 mb-3">បេសកម្ម</h2>
             <p className="text-gray-600 text-sm font-regular">
@@ -50,7 +52,7 @@ const Card = () => {
           viewport={{ once: true, amount: 0.7 }}
           className="bg-white shadow-lg rounded-xl overflow-hidden w-full transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl"
         >
-          <img src={Card1} alt="Vision" className="w-full h-56 object-cover" />
+          <img src={Card3} alt="Vision" className="w-full h-56 object-cover" />
           <div className="p-6 text-center">
             <h2 className="text-lg font-bold text-gray-800 mb-3">ទស្សនៈវិស័យ</h2>
             <p className="text-gray-600 text-sm font-regular">
@@ -68,7 +70,7 @@ const Card = () => {
           viewport={{ once: true, amount: 0.7 }}
           className="bg-white shadow-lg rounded-xl overflow-hidden w-full transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl"
         >
-          <img src={Card1} alt="Values" className="w-full h-56 object-cover" />
+          <img src={Card4} alt="Values" className="w-full h-56 object-cover" />
           <div className="p-6 text-center">
             <h2 className="text-lg font-bold text-gray-800 mb-3">តម្លៃ</h2>
             <p className="text-gray-600 text-sm font-regular">

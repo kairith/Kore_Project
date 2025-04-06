@@ -22,7 +22,7 @@ const MissionSection = () => {
                     <p className="font-regular text-[16px] sm:text-lg lg:text-xl text-gray-900 mb-6">
                         យើងគឺជាវេទិកាឌីជីថលដែលបង្កើតឡើងដើម្បីជួយស្ត្រីមានផ្ទៃពោះនៅកម្ពុជា។ យើងផ្តល់ព័ត៌មានសុខភាព, ការគាំទ្រផ្លូវអារម្មណ៍, និងជំនួយដោយ AI ជាភាសាខ្មែរ។ គោលដៅរបស់យើងគឺធានាថាមាតានពោះទាំងអស់ មានដំណោះស្រាយសម្រាប់បញ្ហារបស់ពួកគេ ហើយអាចធ្វើការសម្រេចចិត្តដោយមានព័ត៌មានគ្រប់គ្រាន់សម្រាប់ខ្លួន និងទារក។
                     </p>
-                    <a href="#" className="text-rose-300 text-[16px] sm:text-lg md:mb-14 mb-14 font-bold inline-flex transition duration-300 hover:text-white">
+                    <a href="http://localhost:5173/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%A2%E1%9E%94%E1%9F%8B%E1%9E%9A%E1%9F%86/%E1%9E%A2%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%94%E1%9E%91" className="text-rose-300 text-[16px] sm:text-lg md:mb-14 mb-14 font-bold inline-flex transition duration-300 hover:text-white">
                         ស្វែងយល់បន្ថែម →
                     </a>
                 </motion.div>

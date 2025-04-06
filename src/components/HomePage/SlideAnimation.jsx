@@ -65,7 +65,7 @@ export default function Carousel({ autoSlide = true, autoSlideInterval = 3000 })
                     whileInView={"show"}
                     viewport={{ once: true, amount: 0.7 }}
                     className="font-regular text-white mt-5 px-6 py-2 sm:px-8 sm:py-2 lg:px-12 lg:py-3 rounded-lg shadow-lg shadow-sky-300/50 bg-sky-300 cursor-pointer transition-all duration-300 ease-in-out hover:font-bold hover:bg-transparent hover:border-2 hover:border-sky-300 hover:text-sky-300">
-                    ស្វែងយល់បន្ថែម
+                   <a href="http://localhost:5173/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%A2%E1%9E%94%E1%9F%8B%E1%9E%9A%E1%9F%86">ស្វែងយល់បន្ថែម</a>
                 </motion.button>
             </div>
 

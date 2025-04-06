@@ -80,7 +80,7 @@ const CardSection = () => {
                     href="#"
                     className="font-regular text-blue-500 inline-flex items-center group-hover:text-white"
                   >
-                    <span className="lg:mt-5">ស្វែងយល់បន្ថែម</span>
+                    <span className="lg:mt-5"><a href="http://localhost:5173/%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%A2%E1%9E%94%E1%9F%8B%E1%9E%9A%E1%9F%86/%E1%9E%A2%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%94%E1%9E%91">ស្វែងយល់បន្ថែម</a></span>
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       fillOpacity="none"

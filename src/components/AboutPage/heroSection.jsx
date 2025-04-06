@@ -1,5 +1,5 @@
 import React from 'react';
-import Card1 from '../../assets/AboutPage/Card1.jpg'; // Adjust the path based on your structure
+import Card1 from '../../assets/AboutPage/Card1s.jpg'; // Adjust the path based on your structure
 
 const HeroSection = () => {
   return (
