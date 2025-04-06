@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+backend/data/2xlmroberta_qa_khmer/model.safetensors filter=lfs diff=lfs merge=lfs -text
