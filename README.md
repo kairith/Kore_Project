@@ -44,8 +44,16 @@ download model to put for ai and move these file below into /backend/data/
 open and download : https://drive.google.com/drive/folders/1lMyQ7v0yANRJqjdBr3PhxZ-1iK8Tt-pa?usp=sharing 
 open and download : https://drive.google.com/drive/folders/1QYf7iQn0bQfjtmnQBwNBfGUBbtJy_wwN?usp=sharing
 
+after download that model and save in the follow directory 
+please rename it in /backend/fast_api.py line 86 
+to your current directory that save on your model 
+ex : "/Users/lsbizz/Documents/AllMyCode/Capstone_Project/Pregnancy_Project 2/backend/data/kore_xml2"
 
+than change to specific yours
 =====================================================================
+
+
+
 the video and blog 
 
 go to localhost:5173/login/admin/project
